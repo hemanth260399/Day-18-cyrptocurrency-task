@@ -1,0 +1,24 @@
+.topbox{
+    background-color: gold;
+    text-align: center;
+}
+.fa{
+    font-size: 40px;
+}
+h2{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.popular{
+    color:red;
+    text-align:center;
+    font-size: 18px;
+}
+
+.main{
+    font-size: 32px;
+    color: white;
+}
+body{
+    background-color: darkslategray;
+}
